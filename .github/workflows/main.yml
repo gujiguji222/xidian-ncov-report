@@ -27,5 +27,5 @@ jobs:
         # 安装需要的python库
     - name: '[Final Main] Check In'
       run: |
-        python submit.py
+        python submit_3chk.py
         # 执行代码
