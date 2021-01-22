@@ -28,4 +28,5 @@ jobs:
     - name: '[Final Main] Check In'
       run: |
         python submit_3chk.py
+        python submit.py
         # 执行代码
